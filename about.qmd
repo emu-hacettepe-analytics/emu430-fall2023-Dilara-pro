@@ -5,21 +5,23 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Gazi University, Turkey, 2014 - 2019.
+-   M.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - 2023.
+-   Ph.D., Industrial Engineering, Hacettepe University, Turkey, 2023 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+1.  Hacettepe University, Research Assistant, 2020 - ongoing.
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Lazzoni Furniture, Intern in Quality Department, August 2017
 
-2.  Firm bbb, position yyy, year yyy
+2.  Aselsan, Intern in Production Planning and Control Department, July 2018
+
+3.  TAI, Candidate Industrial Engineer, November 2018 - May 2019
 
 # Projects
 
@@ -28,3 +30,10 @@ sidebar: false
 R, Quarto, Git, Python
 
 # Hobbies
+
+I enjoy researching in my field, reading, traveling and dancing.
+
+# Links
+
+
+
