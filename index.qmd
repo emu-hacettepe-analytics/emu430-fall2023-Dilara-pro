@@ -2,7 +2,6 @@
 title: "Welcome to My Webpage"
 sidebar: false 
 ---
-
 <p align="left">
   <img src="20180927_163507.jpg" alt="Photo" width="50%" />
 </p>
