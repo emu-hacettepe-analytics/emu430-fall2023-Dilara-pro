@@ -1,11 +1,16 @@
 ---
-title: "Welcome to My Analytics Lab"
+title: "Welcome to My Webpage"
 sidebar: false 
 ---
 
-Hello! My name is Dilara Akkuş.
+<p align="left">
+  <img src="20180927_163507.jpg" alt="Photo" width="50%" />
+</p>
 
-This is my personal webpage.
+Welcome to my webpage! Let me introduce myself briefly.
 
-Please stay tuned to follow my works on data analytics, blog posts, and more.
+*I am a Ph.D. student and a research assistant in the Industrial Engineering Department at Hacettepe University. I am extremely passionate about the fields of data science, statistical learning, and machine learning.*
 
+*I have honed my programming skills in R and Python. I typically use LaTeX to prepare my projects and assignments.*
+
+*Recently, I have been delving into solving optimization problems using the Gurobi optimizer. Additionally, I am in the process of learning Quarto in R, as well as improving my knowledge of Git and GitHub.*
