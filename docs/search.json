@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Analytics Lab",
+    "title": "Welcome to My Webpage",
     "section": "",
-    "text": "Hello! My name is Dilara Akkuş.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\n\n\n\n Back to top"
+    "text": "Welcome to my webpage! Let me introduce myself briefly.\nI am a Ph.D. student and a research assistant in the Industrial Engineering Department at Hacettepe University. I am extremely passionate about the fields of data science, statistical learning, and machine learning.\nI have honed my programming skills in R and Python. I typically use LaTeX to prepare my projects and assignments.\nRecently, I have been delving into solving optimization problems using the Gurobi optimizer. Additionally, I am in the process of learning Quarto in R, as well as improving my knowledge of Git and GitHub.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",

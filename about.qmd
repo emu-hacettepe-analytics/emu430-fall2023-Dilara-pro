@@ -25,11 +25,11 @@ sidebar: false
 
 # Projects
 
-1. Studying on "Analysis of GHG Emissions: The case of Turkey". This study aims to describe the current status of greenhouse gas emissions in Turkey and to analyse sectoral data by applying a clustering algorithm. 
+1.  Studying on "Analysis of GHG Emissions: The case of Turkey". This study aims to describe the current status of greenhouse gas emissions in Turkey and to analyse sectoral data by applying a clustering algorithm.
 
-2. An FMEA study is currently underway for the improvement of service delivery for the facilities of a university's industrial engineering department.
+2.  An FMEA study is currently underway for the improvement of service delivery for the facilities of a university's industrial engineering department.
 
-3. The paper "A Novel Method for Weighting Decision Makers for Failure Mode and Effect Analysis under Intuitionistic Fuzzy Environment" is under review at Quality and Reliability Engineering International.
+3.  The paper "A Novel Method for Weighting Decision Makers for Failure Mode and Effect Analysis under Intuitionistic Fuzzy Environment" is under review at Quality and Reliability Engineering International.
 
 # Competencies
 
@@ -40,6 +40,9 @@ R, Quarto, Git, Github, Python, Gurobi, Latex, Minitab
 I enjoy researching in my field, reading, traveling and dancing.
 
 # Links
-[CV_DilaraAkkus](CV_Dilara Akkus__page-0001.jpg)
 
+[CV](CV_Dilara%20Akkus__page-0001.jpg)
 
+[Github](https://github.com/Dilara-pro)
+
+[Linkedin](https://www.linkedin.com/in/dilara-akkus/)

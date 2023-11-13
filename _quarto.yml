@@ -16,11 +16,9 @@ website:
       
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/Dilara-pro
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/dilara-akkus/
 
   page-navigation: true
   back-to-top-navigation: true
@@ -32,8 +30,8 @@ format:
     toc: true
     toc-location: left
     theme: 
-      light: pulse 
-      dark: superhero
+      light: flatly
+      dark: darkly
     css: styles.css
 
 
